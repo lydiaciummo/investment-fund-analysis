@@ -1,4 +1,4 @@
-# Ivestment Fund Analysis
+# Investment Fund Analysis
 
 ## Overview and Purpose
 This project analyzes the risk and return of four different investment funds in order to make a recommendation for which fund would make the best addition to an investment portfolio. To make this determination, it will take into account several different risk-management metrics: daily return, standard deviation, beta, and the Sharpe ratio. It is the weekly challenge for Module 4 of the UW fintech Bootcamp, Quantitative Analysis with Pandas.
