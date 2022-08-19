@@ -1,0 +1,50 @@
+  473  git commit -m "Wrote code for all steps of data collection, preparation, and analysis."
+  474  git push
+  475  git status
+  476  git add crypto_arbitrage.ipynb
+  477  git commit -m "Edited the markdown and added comments to complete the report"
+  478  git push
+  479  history 50 > terminal_history.txt
+  480  git status
+  481  git add all
+  482  git add README.md
+  483  git add crypto_arbitrage.ipynb
+  484  git add Images/
+  485  git add terminal_history.txt
+  486  git status
+  487  git commit -m "Edited the README and added termina_lhistory.txt as proof of using the terminal to make commits"
+  488  git push
+  489  conda activate dev
+  490  jupyter lab
+  491  conda deactivate
+  492  conda activate dev
+  493  jupyter lab
+  494  conda deactivate
+  495  conda activate dev
+  496  jupyter lab
+  497  conda deactivate
+  498  conda activate dev
+  499  jupyter lab
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_4_challenge
+  502  git clone 
+  503  git clone 
+  504  git clone git@github.com:lydiaciummo/investment-fund-analysis.git
+  505  cd investment-fund-analysis
+  506  git status
+  507  git add Resources/
+  508  git add risk_return_analysis.ipynb
+  509  git status
+  510  git commit -m "Impoted starter code and resources into the repository"
+  511  git push
+  512  git status
+  513  git add risk_return_analysis.ipynb
+  514  git status
+  515  git commit -m "Completed the code and visualizations for the analysis"
+  516  git push
+  517  git status
+  518  git add risk_return_analysis.ipynb
+  519  git status
+  520  git commit -m "Edited the markup to make the project more concise and readable."
+  521  git push
+  522  history 50 > terminal_history.txt
